@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a36edd54-325e-4dab-8b1a-2f25be1d9c2f" name="portofolio" url="http://portofolio.ma-soft.fr">
+        <fileTransfer rootFolder="/var/www/html/portofolio" accessType="SFTP" host="45.63.122.14" port="22" sshConfigId="15eac5fb-916c-4524-8b13-374394cb9699" sshConfig="root@45.63.122.14:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
